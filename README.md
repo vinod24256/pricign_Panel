@@ -1,5 +1,3 @@
-# pricign_Panel
-
 # Pricing Panel
 
 A modern, responsive pricing table UI built with HTML and CSS.
@@ -8,8 +6,10 @@ A modern, responsive pricing table UI built with HTML and CSS.
 
 ## Preview
 
-![Website Screenshot](images/screenshot.png)
+![Website Screenshot](
+![alt text](image.png)
 
+)
 <!-- Replace 'images/screenshot.png' with your actual screenshot path -->
 
 ## Features
@@ -36,5 +36,3 @@ A modern, responsive pricing table UI built with HTML and CSS.
 - Adjust styles in `app.css` to match your branding.
 
 ---
-
-\*![alt text](image.png)
